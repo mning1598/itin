@@ -4,4 +4,10 @@ class HomeController < ApplicationController
 
   def about
   end
+
+  def signin
+  end
+
+  def features
+  end
 end
